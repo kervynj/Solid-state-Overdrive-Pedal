@@ -7,3 +7,5 @@
 ![alt text](https://github.com/kervynj/Solid-state-Overdrive-Pedal/blob/master/full_assembly.jpeg)
 
 ![alt text](https://github.com/kervynj/Solid-state-Overdrive-Pedal/blob/master/pcba.jpeg)
+
+![alt text](https://github.com/kervynj/Solid-state-Overdrive-Pedal/blob/master/overdrive_schematic.jpeg)
