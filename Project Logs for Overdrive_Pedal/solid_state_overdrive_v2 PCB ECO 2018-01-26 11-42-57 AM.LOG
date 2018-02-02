@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=BYPASS Pin=SW1-1
+Removed Pin From Net: NetName=EFFECT_OUT Pin=SW1-3
+Added Pin To Net: NetName=EFFECT_OUT Pin=SW1-1
+Added Pin To Net: NetName=BYPASS Pin=SW1-3
+Added Room: Name=solid_state_overdrive_v2

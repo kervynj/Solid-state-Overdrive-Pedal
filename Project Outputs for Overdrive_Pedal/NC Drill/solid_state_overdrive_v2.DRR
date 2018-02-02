@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: solid_state_overdrive_v2.PcbDoc   2018-01-26  4:05:56 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : solid_state_overdrive_v2-RoundHoles.TXT
+ASCII SquareHoles File : solid_state_overdrive_v2-SquareHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.762mm (30mil)                                           Round             2         PTH        2.54mm (0.10inch)
+T2      0.8mm (31mil)                                             Round             7         PTH        86.19mm (3.39inch)
+T3      0.85mm (33mil)                                            Round             12        PTH        58.17mm (2.29inch)
+T4      0.9mm (35mil)                                             Round             2         PTH        2.54mm (0.10inch)
+T5      1mm (39mil)                                               Round             9         PTH        35.48mm (1.40inch)
+T6      1.016mm (40mil)                                           Round             9         PTH        162.89mm (6.41inch)
+T7      1.2mm (47mil)                                             Round             9         PTH        39.40mm (1.55inch)
+T8      2.1mm (83mil)                                             Square            6         PTH        41.08mm (1.62inch)
+T9      2.6mm (102mil)                                            Round             3         PTH        11.72mm (0.46inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              59
+
+Total Processing Time (hh:mm:ss) : 00:00:00

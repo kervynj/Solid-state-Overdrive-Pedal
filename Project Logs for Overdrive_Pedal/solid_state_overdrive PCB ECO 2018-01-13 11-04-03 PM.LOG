@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=C1-1
+Removed Pin From Net: NetName=NetC4_2 Pin=R5-1
+Removed Pin From Net: NetName=NetC4_1 Pin=R12-1
+Removed Pin From Net: NetName=NetC4_2 Pin=U1-7
+Change Component Footprint: Designator=C1 Old Footprint=CAPC0805(2012)75_L New Footprint=CAPC1206(3216)170_L
+Change Component Footprint: Designator=C4 Old Footprint=CAPC0805(2012)75_L New Footprint=CAPC1206(3216)170_L
+Change Component Comment : Designator=C1 Old Comment=CAP 10nF 25V 0805(2012) New Comment=CAP 10nF 25V 1206(3216)
+Change Component Comment : Designator=C4 Old Comment=CAP 10nF 25V 0805(2012) New Comment=CAP 10nF 25V 1206(3216)
+Added Pin To Net: NetName=NetC1_1 Pin=C1-2
+Added Pin To Net: NetName=NetC4_1 Pin=R5-1
+Added Pin To Net: NetName=NetC4_2 Pin=R12-1
+Added Pin To Net: NetName=NetC4_1 Pin=U1-7
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC1_2
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R2-1
+Added Net: Name=NetC1_1

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=EFFECT_OUT Pin=SW1-4
+Removed Pin From Net: NetName=AUDIO_OUT Pin=SW1-5
+Removed Pin From Net: NetName=AUDIO_IN Pin=SW1-8
+Added Component: Designator=C14(CAPC1206(3216)170_N)
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=U1-6
+Added Pin To Net: NetName=NetC14_1 Pin=U1-7
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=R12-1
+Added Pin To Net: NetName=NetC14_2 Pin=TP3-1
+Added Net: Name=NetC14_2
+Added Member To Class: ClassName=solid_state_overdrive_v2 Member=Component C14 CAP 10nF 25V 1206(3216)

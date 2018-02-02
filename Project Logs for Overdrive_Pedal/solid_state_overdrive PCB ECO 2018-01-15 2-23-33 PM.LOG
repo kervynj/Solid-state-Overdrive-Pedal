@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=4.5V Pin=R1-2
+Change Component Comment : Designator=R1 Old Comment=51K 5% 0805(2012) New Comment=100K 5% 0805(2012)
+Added Component: Designator=TP1(KSTN-5011_V)
+Added Component: Designator=TP2(KSTN-5011_V)
+Added Component: Designator=TP3(KSTN-5011_V)
+Added Component: Designator=TP4(KSTN-5011_V)
+Added Component: Designator=TP5(KSTN-5011_V)
+Added Component: Designator=TP6(KSTN-5011_V)
+Added Component: Designator=TP7(KSTN-5011_V)
+Added Component: Designator=TP8(KSTN-5011_V)
+Added Component: Designator=TP9(KSTN-5011_V)
+Added Pin To Net: NetName=9V Pin=R1-2
+Added Pin To Net: NetName=NetP1_1 Pin=TP1-1
+Added Pin To Net: NetName=4.5V Pin=TP2-1
+Added Pin To Net: NetName=NetC4_1 Pin=TP3-1
+Added Pin To Net: NetName=DRIVE_OUT Pin=TP4-1
+Added Pin To Net: NetName=NetC6_1 Pin=TP5-1
+Added Pin To Net: NetName=CC_OUT Pin=TP6-1
+Added Pin To Net: NetName=EFFECT_OUT Pin=TP7-1
+Added Pin To Net: NetName=12V_IN Pin=TP8-1
+Added Pin To Net: NetName=9V Pin=TP9-1
+Added Class: Name=solid_state_overdrive
+Added Room: Name=solid_state_overdrive

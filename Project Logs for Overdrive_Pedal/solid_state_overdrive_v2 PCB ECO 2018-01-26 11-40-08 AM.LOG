@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=EFFECT_OUT Pin=SW1-1
+Removed Pin From Net: NetName=NetR2_2 Pin=SW1-2
+Removed Pin From Net: NetName=AUDIO_OUT Pin=SW1-4
+Removed Pin From Net: NetName=BYPASS Pin=SW1-7
+Removed Pin From Net: NetName=BYPASS Pin=SW1-8
+Added Component: Designator=C13(CAPC0805(2012)110_L)
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=4.5V Pin=C13-2
+Added Pin To Net: NetName=BYPASS Pin=SW1-1
+Added Pin To Net: NetName=AUDIO_OUT Pin=SW1-2
+Added Pin To Net: NetName=EFFECT_OUT Pin=SW1-3
+Added Pin To Net: NetName=NetR2_2 Pin=SW1-4
+Added Pin To Net: NetName=BYPASS Pin=SW1-6
+Added Member To Class: ClassName=solid_state_overdrive_v2 Member=Component C13 CAP 4.7nF 50V 0805(2012)

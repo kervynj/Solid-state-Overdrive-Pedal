@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Electronics Trunk\Overdrive Pedal\solid_state_overdrive.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=solid_state_overdrive-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Square_Holes|DrillFile=solid_state_overdrive-squareholes.txt|DrillLayers=gtl,gbl

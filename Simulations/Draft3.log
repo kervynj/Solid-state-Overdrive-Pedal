@@ -1,0 +1,107 @@
+Circuit: * C:\Electronics Trunk\Distortion Pedal\Draft3.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 5.02168e-006
+vernier = 0.03125
+vernier = 0.0416667
+Gmin = 4.63392e-006
+vernier = 0.0555555
+vernier = 0.074074
+Gmin = 4.0278e-006
+vernier = 0.0987653
+Gmin = 3.23321e-006
+vernier = 0.131687
+vernier = 0.175583
+Gmin = 2.24182e-006
+vernier = 0.23411
+vernier = 0.312147
+Gmin = 1.25836e-006
+vernier = 0.416196
+Gmin = 5.14448e-007
+vernier = 0.554928
+vernier = 0.739903
+Gmin = 1.19667e-007
+vernier = 0.986537
+vernier = 1
+Gmin = 1.45312e-008
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+Gmin = 1.81551e-008
+vernier = 0.00260417
+Gmin = 1.80491e-008
+vernier = 0.00347222
+vernier = 0.00462963
+Gmin = 1.78725e-008
+vernier = 0.00617283
+vernier = 0.00823044
+Gmin = 1.75945e-008
+vernier = 0.0109739
+Gmin = 1.71659e-008
+vernier = 0.0146319
+vernier = 0.0195092
+Gmin = 1.64703e-008
+vernier = 0.0260122
+vernier = 0.034683
+Gmin = 1.542e-008
+vernier = 0.046244
+Gmin = 1.39038e-008
+vernier = 0.0616586
+vernier = 0.0822114
+Gmin = 1.16932e-008
+vernier = 0.109615
+vernier = 0.146154
+Gmin = 8.88471e-009
+vernier = 0.194871
+Gmin = 5.78562e-009
+vernier = 0.259828
+vernier = 0.346438
+Gmin = 2.84488e-009
+vernier = 0.461917
+vernier = 0.615889
+Gmin = 9.39197e-010
+vernier = 0.821185
+Gmin = 1.72748e-010
+vernier = 1
+Gmin = 1.85486e-011
+Gmin = 1.99164e-012
+Gmin = 2.13851e-013
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Wed Jan 10 12:08:06 2018
+Total elapsed time: 0.297 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 2291
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 19
+fillins = 7
+solver = Normal
+Matrix Compiler1:      87 opcodes
+Matrix Compiler2: off  [0.8]/1.4/2.0
+

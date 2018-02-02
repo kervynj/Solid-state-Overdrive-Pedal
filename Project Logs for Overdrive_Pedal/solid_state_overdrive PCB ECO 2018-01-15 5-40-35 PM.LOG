@@ -1,0 +1,4 @@
+Added Component: Designator=SW2(TOGGLE_SW_JUMPER)
+Added Pin To Net: NetName=4.5V Pin=SW2-1
+Added Pin To Net: NetName=NetD7_2 Pin=SW2-2
+Added Member To Class: ClassName=solid_state_overdrive Member=Component SW2 SPST Toggle Switch

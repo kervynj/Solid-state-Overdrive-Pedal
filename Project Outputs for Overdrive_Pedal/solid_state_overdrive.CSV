@@ -1,0 +1,26 @@
+Bill of Material for ,,,,
+On 2018-01-15 at 5:59:33 PM,,,,
+,,,,
+Comment,Pattern,Quantity,Components,LINK
+"DC JACK, 2.1mm ID",163-179PH-EX,1,J1,https://ca.mouser.com/productdetail/163-179ph-ex
+3PDT SW,3PDT,1,SW1,https://ca.mouser.com/productdetail/612-fs573plt2b2m1qeh
+ALPHA-POT,ALPHA_POT,3,"R8, R11, R12",https://ca.mouser.com/productdetail/317-2090f-10k
+BA90BC0FP,BA90BC0FP-E2,1,U2,https://ca.mouser.com/productdetail/755-ba90bc0fp-e2
+CAP 1uF 50V 0805(2012),CAPC0805(2012)145_L,1,C3,have enough?
+CAP 100nF 50V 0805(2012),CAPC0805(2012)145_N,2,"C5, C10",have enough?
+CAP 10nF 25V 0805(2012),CAPC0805(2012)75_L,1,C2,https://ca.mouser.com/productdetail/81-gcj21br71e104ka1l
+CAP 1nF 50V 0805(2012),CAPC0805(2012)75_L,2,"C6, C7",https://ca.mouser.com/productdetail/murata-electronics/gcj216r71e102ka01d?qs=sGAEpiMZZMs0AnBnWHyRQAsAWwhBCY7bhU2fcCaf3K1fwrNyvXuTnA%3D%3D
+CAP 4.7nF 25V 1206(3216),CAPC1206(3216)100_L,1,C9,https://ca.mouser.com/productdetail/murata-electronics/grm21ar72d472kw01d?qs=sGAEpiMZZMs0AnBnWHyRQKFZIQ7b73cdeuQN9oFIhIkShJn6Lc8pNQ%3D%3D
+CAP 330nF 16V 1206(3216),CAPC1206(3216)110_L,1,C11,https://ca.mouser.com/productdetail/murata-electronics/grm319r71e334ja01d?qs=sGAEpiMZZMs0AnBnWHyRQNchIam%2FLmo3JmqTTPCzMs4%3D
+CAP 10nF 25V 1206(3216),CAPC1206(3216)170_L,2,"C1, C4",https://ca.mouser.com/productdetail/murata-electronics/grm31ar72j103kw01d?qs=sGAEpiMZZMs0AnBnWHyRQAsAWwhBCY7btDbuw%2FRW47gI32xXLZjO%252bw%3D%3D
+CAP 100nF 25V 1206(3216),CAPC1206(3216)190_L,1,C8,have enough?
+CAP 22uF 16V 1206(3216),CAPC1206(3216)190_L,1,C12,https://ca.mouser.com/productdetail/murata-electronics/grt31cc81c226me01l?qs=sGAEpiMZZMs0AnBnWHyRQKtaB%2FEehnE22DNVbjGYKydZOvUjbeE1CA%3D%3D
+TL072ACD,D0008A_L,1,U1,https://ca.mouser.com/productdetail/texas-instruments/tl072acdr?qs=sGAEpiMZZMtCHixnSjNA6Dh9CQmOfcFclj76iGE5iHg%3D
+JANTX1N4148-1,MCSM-DO-35-2,6,"D3, D4, D5, D6, D7, D8",https://ca.mouser.com/productdetail/on-semiconductor-fairchild/1n4148?qs=sGAEpiMZZMvplms98TlKY2CxbJu22D5%2F%2FpqXqVsMprg%3D
+JACK_MONO_6.35mm,MONO_JUMPER,2,"P1, P2",https://ca.mouser.com/productdetail/568-nys229-u
+BC547B,ONSC-TO-92-3-29-11,1,Q1,https://ca.mouser.com/productdetail/512-bc547b
+100K 5% 0805(2012),RESC0805(2012)_L,2,"R1, R9",have enough?
+10K 5% 0805(2012),RESC0805(2012)_L,1,R7,https://ca.mouser.com/productdetail/yageo/rc0805fr-0710kl?qs=sGAEpiMZZMvdGkrng054txdMlaQGj9fi4uZGpN02qIo%3D
+1K 5% 0805(2012),RESC0805(2012)_L,7,"R2, R3, R4, R5, R6, R13, R14",https://ca.mouser.com/productdetail/yageo/rc0805fr-071kl?qs=sGAEpiMZZMvdGkrng054txdMlaQGj9fiG8OYDyT2iio%3D
+510R 5% 0805(2012),RESC0805(2012)_L,1,R10,https://ca.mouser.com/productdetail/vishay/crcw0805510rjnea?qs=sGAEpiMZZMvdGkrng054txEw7b1YnvGugJTpuumTdks%3D
+SPST Toggle Switch,TOGGLE_SW_JUMPER,1,SW2,https://ca.mouser.com/productdetail/nkk-switches/m2011ss1w01?qs=sGAEpiMZZMvudeGI7i40XAioszYD5zyMKkmxL4LJGuQ%3D

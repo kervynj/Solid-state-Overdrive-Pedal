@@ -1,0 +1,27 @@
+Bill of Material for 
+On 2018-01-15 at 5:59:33 PM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 100K 5% 0805(2012)  RESC0805(2012)_L    2    R1, R9                       100K 0.125W 5% 0805 (2012 Metric)  SMD 
+ 10K 5% 0805(2012)   RESC0805(2012)_L    1    R7                           10K 0.125W 5% 0805 (2012 Metric)  SMD 
+ 1K 5% 0805(2012)    RESC0805(2012)_L    7    R2, R3, R4, R5, R6, R13, R14 1K 0.125W 5% 0805 (2012 Metric)  SMD 
+ 3PDT SW             3PDT             1    SW1                                               
+ 510R 5% 0805(2012)  RESC0805(2012)_L    1    R10                          510R 0.125W 5% 0805 (2012 Metric)  SMD 
+ ALPHA-POT           ALPHA_POT        3    R8, R11, R12                                      
+ BA90BC0FP           BA90BC0FP-E2     1    U2                           LDO Voltage Regulators REG 1A 9V 
+ BC547B              ONSC-TO-92-3-29-11    1    Q1                           Amplifier Transistor, NPN Silicon, 3-Pin TO-92, Bulk Box 
+ CAP 100nF 25V 1206(3216) CAPC1206(3216)190_L    1    C8                           CAP 100nF 25V ±1% 1206 (3216 Metric) Thickness 1.9mm SMD 
+ CAP 100nF 50V 0805(2012) CAPC0805(2012)145_N    2    C5, C10                      CAP 100nF 50V ±5% 0805 (2012 Metric) Thickness 1.45mm SMD 
+ CAP 10nF 25V 0805(2012) CAPC0805(2012)75_L    1    C2                           CAP 10nF 25V ±20% 0805 (2012 Metric) Thickness 0.75mm SMD 
+ CAP 10nF 25V 1206(3216) CAPC1206(3216)170_L    2    C1, C4                       CAP 10nF 25V ±20% 1206 (3216 Metric) Thickness 1.7mm SMD 
+ CAP 1nF 50V 0805(2012) CAPC0805(2012)75_L    2    C6, C7                       CAP 1nF 50V ±20% 0805 (2012 Metric) Thickness 0.75mm SMD 
+ CAP 1uF 50V 0805(2012) CAPC0805(2012)145_L    1    C3                           CAP 1uF 50V ±10% 0805 (2012 Metric) Thickness 1.45mm SMD 
+ CAP 22uF 16V 1206(3216) CAPC1206(3216)190_L    1    C12                          CAP 22uF 16V ±20% 1206 (3216 Metric) Thickness 1.9mm SMD 
+ CAP 330nF 16V 1206(3216) CAPC1206(3216)110_L    1    C11                          CAP 330nF 16V ±20% 1206 (3216 Metric) Thickness 1.05mm SMD 
+ CAP 4.7nF 25V 1206(3216) CAPC1206(3216)100_L    1    C9                           CAP 4.7nF 25V ±1% 1206 (3216 Metric) Thickness 1mm SMD 
+ DC JACK, 2.1mm ID   163-179PH-EX     1    J1                           DC BARREL JACK, 2.1mm ID 
+ JACK_MONO_6.35mm    MONO_JUMPER      2    P1, P2                                            
+ JANTX1N4148-1       MCSM-DO-35-2     6    D3, D4, D5, D6, D7, D8       Glass Axial Switching Diode, 200 mA, 100 V, 2-Pin DO-35, RoHS, Bulk 
+ SPST Toggle Switch  TOGGLE_SW_JUMPER    1    SW2                                               
+ TL072ACD            D0008A_L         1    U1                           Low-Noise JFET-Input Operational Amplifier, 7 to 36 V, 0 to 70 degC, 8-pin SOIC (D8), Green (RoHS & no Sb/Br) 

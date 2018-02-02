@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=GND Pin=R4-2
+Removed Pin From Net: NetName=NetC4_1 Pin=R5-1
+Removed Pin From Net: NetName=EFFECT_OUT Pin=R12-2
+Removed Pin From Net: NetName=NetC4_1 Pin=TP3-1
+Removed Pin From Net: NetName=NetC4_1 Pin=U1-7
+Removed Member From Class: ClassName=solid_state_overdrive Member=R4
+Removed Member From Class: ClassName=solid_state_overdrive Member=R5
+Change Component Footprint: Designator=C6 Old Footprint=CAPC0805(2012)75_L New Footprint=CAPC0805(2012)75_M
+Change Component Footprint: Designator=C7 Old Footprint=CAPC0805(2012)75_L New Footprint=CAPC0805(2012)75_M
+Change Component Footprint: Designator=C9 Old Footprint=CAPC1206(3216)100_L New Footprint=CAPC1206(3216)100_N
+Change Component Footprint: Designator=C11 Old Footprint=CAPC1206(3216)110_L New Footprint=CAPC1206(3216)110_N
+Change Component Footprint: Designator=C1 Old Footprint=CAPC1206(3216)170_L New Footprint=CAPC1206(3216)170_N
+Change Component Footprint: Designator=C4 Old Footprint=CAPC1206(3216)170_L New Footprint=CAPC1206(3216)170_N
+Change Component Footprint: Designator=C12 Old Footprint=CAPC1206(3216)190_L New Footprint=CAPC1206(3216)190_M
+Change Component Footprint: Designator=U1 Old Footprint=D0008A_L New Footprint=D0008A_M
+Change Component Footprint: Designator=R2 Old Footprint=RESC0805(2012)_L New Footprint=RESC0805(2012)_N
+Change Component Footprint: Designator=R3 Old Footprint=RESC0805(2012)_L New Footprint=RESC0805(2012)_N
+Change Component Footprint: Designator=R6 Old Footprint=RESC0805(2012)_L New Footprint=RESC0805(2012)_N
+Change Component Footprint: Designator=R13 Old Footprint=RESC0805(2012)_L New Footprint=RESC0805(2012)_N
+Change Component Footprint: Designator=R14 Old Footprint=RESC0805(2012)_L New Footprint=RESC0805(2012)_N
+Added Component: Designator=TP1(KSTN-5001)
+Added Pin To Net: NetName=EFFECT_OUT Pin=C4-2
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetC4_1 Pin=R12-2
+Added Pin To Net: NetName=AUDIO_IN Pin=TP1-1
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=TP3-1
+Added Pin To Net: NetName=NetR12_1 Pin=U1-6
+Added Pin To Net: NetName=NetR12_1 Pin=U1-7
+Added Net: Name=NetR12_1
+Change Class Name : Old Net Name=solid_state_overdrive New Net Name=solid_state_overdrive_v2
+Added Member To Class: ClassName=solid_state_overdrive_v2 Member=Component D3 JANTX1N4148-1
+Added Member To Class: ClassName=solid_state_overdrive_v2 Member=Component D4 JANTX1N4148-1
+Added Member To Class: ClassName=solid_state_overdrive_v2 Member=Component D5 JANTX1N4148-1
+Added Member To Class: ClassName=solid_state_overdrive_v2 Member=Component D6 JANTX1N4148-1
+Added Member To Class: ClassName=solid_state_overdrive_v2 Member=Component D7 JANTX1N4148-1
+Added Member To Class: ClassName=solid_state_overdrive_v2 Member=Component D8 JANTX1N4148-1
+Added Member To Class: ClassName=solid_state_overdrive_v2 Member=Component P1 JACK_MONO_6.35mm
+Added Member To Class: ClassName=solid_state_overdrive_v2 Member=Component P2 JACK_MONO_6.35mm
+Added Member To Class: ClassName=solid_state_overdrive_v2 Member=Component SW1 3PDT SW
+Added Member To Class: ClassName=solid_state_overdrive_v2 Member=Component TP1 5001
+Added Member To Class: ClassName=solid_state_overdrive_v2 Member=Component TP2 5001
+Added Member To Class: ClassName=solid_state_overdrive_v2 Member=Component TP3 5001
+Added Member To Class: ClassName=solid_state_overdrive_v2 Member=Component TP4 5001
+Added Member To Class: ClassName=solid_state_overdrive_v2 Member=Component TP5 5001
+Added Member To Class: ClassName=solid_state_overdrive_v2 Member=Component TP6 5001
+Added Member To Class: ClassName=solid_state_overdrive_v2 Member=Component TP7 5001
+Added Member To Class: ClassName=solid_state_overdrive_v2 Member=Component TP8 5001
+Added Member To Class: ClassName=solid_state_overdrive_v2 Member=Component TP9 5001

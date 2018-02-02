@@ -1,0 +1,12 @@
+* C:\Electronics Trunk\Distortion Pedal\Draft3.asc
+R1 N002 N001 1k
+R2 N003 N002 10k
+C1 N001 0 1µF
+XU1 N004 N002 Vcc -Vcc N003 LT1677
+V1 Vcc 0 9v
+V2 -Vcc 0 -9V
+V3 N004 0 AC 0.1 0
+.ac dec 10m 1 100k
+.lib LTC.lib
+.backanno
+.end

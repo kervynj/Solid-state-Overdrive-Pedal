@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=12V_IN Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C11-2
+Change Component Footprint: Designator=C11 Old Footprint=CAPC0805(2012)100_L New Footprint=CAPC1206(3216)110_L
+Change Component Comment : Designator=C11 Old Comment=CAP 330nF 25V 0805(2012) New Comment=CAP 330nF 16V 1206(3216)
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=12V_IN Pin=C11-2
+Added Member To Class: ClassName=solid_state_overdrive Member=Component TP1 5011
+Added Member To Class: ClassName=solid_state_overdrive Member=Component TP2 5011
+Added Member To Class: ClassName=solid_state_overdrive Member=Component TP3 5011
+Added Member To Class: ClassName=solid_state_overdrive Member=Component TP4 5011
+Added Member To Class: ClassName=solid_state_overdrive Member=Component TP5 5011
+Added Member To Class: ClassName=solid_state_overdrive Member=Component TP6 5011
+Added Member To Class: ClassName=solid_state_overdrive Member=Component TP7 5011
+Added Member To Class: ClassName=solid_state_overdrive Member=Component TP8 5011
+Added Member To Class: ClassName=solid_state_overdrive Member=Component TP9 5011

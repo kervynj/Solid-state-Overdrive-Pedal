@@ -1,0 +1,29 @@
+Added Component: Designator=TP1(KSTN-5001)
+Added Component: Designator=TP2(KSTN-5001)
+Added Component: Designator=TP3(KSTN-5001)
+Added Component: Designator=TP4(KSTN-5001)
+Added Component: Designator=TP5(KSTN-5001)
+Added Component: Designator=TP6(KSTN-5001)
+Added Component: Designator=TP7(KSTN-5001)
+Added Component: Designator=TP8(KSTN-5001)
+Added Component: Designator=TP9(KSTN-5001)
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=AUDIO_IN Pin=TP1-1
+Added Pin To Net: NetName=4.5V Pin=TP2-1
+Added Pin To Net: NetName=NetC4_1 Pin=TP3-1
+Added Pin To Net: NetName=DRIVE_OUT Pin=TP4-1
+Added Pin To Net: NetName=NetC6_1 Pin=TP5-1
+Added Pin To Net: NetName=CC_OUT Pin=TP6-1
+Added Pin To Net: NetName=EFFECT_OUT Pin=TP7-1
+Added Pin To Net: NetName=12V_IN Pin=TP8-1
+Added Pin To Net: NetName=9V Pin=TP9-1
+Added Member To Class: ClassName=solid_state_overdrive Member=Component J1 DC JACK, 2.1mm ID
+Added Member To Class: ClassName=solid_state_overdrive Member=Component TP1 5001
+Added Member To Class: ClassName=solid_state_overdrive Member=Component TP2 5001
+Added Member To Class: ClassName=solid_state_overdrive Member=Component TP3 5001
+Added Member To Class: ClassName=solid_state_overdrive Member=Component TP4 5001
+Added Member To Class: ClassName=solid_state_overdrive Member=Component TP5 5001
+Added Member To Class: ClassName=solid_state_overdrive Member=Component TP6 5001
+Added Member To Class: ClassName=solid_state_overdrive Member=Component TP7 5001
+Added Member To Class: ClassName=solid_state_overdrive Member=Component TP8 5001
+Added Member To Class: ClassName=solid_state_overdrive Member=Component TP9 5001

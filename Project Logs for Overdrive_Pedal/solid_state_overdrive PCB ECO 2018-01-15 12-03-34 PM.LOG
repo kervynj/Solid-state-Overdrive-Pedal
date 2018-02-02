@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=D1-1
+Removed Pin From Net: NetName=VBAT Pin=D1-2
+Removed Pin From Net: NetName=GND Pin=D2-1
+Removed Pin From Net: NetName=NetC1_2 Pin=D2-2
+Added Component: Designator=C10(CAPC0805(2012)145_N)
+Added Component: Designator=C11(CAPC0805(2012)100_L)
+Added Component: Designator=C12(CAPC0805(2012)145_L)
+Added Component: Designator=J1(163-179PH-EX)
+Added Component: Designator=R13(RESC0805(2012)_L)
+Added Component: Designator=R14(RESC0805(2012)_L)
+Added Component: Designator=U2(BA90BC0FP-E2)
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=4.5V Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=VBAT Pin=C12-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=VBAT Pin=R13-1
+Added Pin To Net: NetName=4.5V Pin=R13-2
+Added Pin To Net: NetName=4.5V Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=VBAT Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Change Net Name : Old Net Name=VBAT New Net Name=9V
+Added Pin To Net: NetName=12V_IN Pin=C11-1
+Added Pin To Net: NetName=12V_IN Pin=J1-1
+Added Pin To Net: NetName=12V_IN Pin=U2-1
+Added Net: Name=12V_IN

@@ -1,0 +1,12 @@
+Added Component: Designator=D1(3mm_diode)
+Added Component: Designator=R4(RESC0805(2012)_L)
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=9V Pin=SW1-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R4-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=SW1-1
+Added Net: Name=NetR4_1
+Added Member To Class: ClassName=solid_state_overdrive_v2 Member=Component D1 5mm_LED
+Added Member To Class: ClassName=solid_state_overdrive_v2 Member=Component R4 510R 5% 0805(2012)

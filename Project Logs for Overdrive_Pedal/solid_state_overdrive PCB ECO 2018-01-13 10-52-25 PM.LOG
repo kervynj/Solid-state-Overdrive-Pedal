@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VBAT Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=AUDIO_IN Pin=P1-1
+Change Component Footprint: Designator=C9 Old Footprint=CAPC0805(2012)110_L New Footprint=CAPC1206(3216)100_L
+Change Component Footprint: Designator=C8 Old Footprint=CAPC0805(2012)145_N New Footprint=CAPC1206(3216)190_L
+Change Component Comment : Designator=C9 Old Comment=CAP 4.7nF 50V 0805(2012) New Comment=CAP 4.7nF 25V 1206(3216)
+Change Component Comment : Designator=C8 Old Comment=CAP 100nF 50V 0805(2012) New Comment=CAP 100nF 25V 1206(3216)
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=VBAT Pin=C9-2
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1

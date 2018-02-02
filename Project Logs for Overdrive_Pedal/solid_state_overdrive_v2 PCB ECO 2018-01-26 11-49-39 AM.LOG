@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=EFFECT_OUT Pin=SW1-1
+Removed Pin From Net: NetName=AUDIO_OUT Pin=SW1-2
+Removed Pin From Net: NetName=BYPASS Pin=SW1-3
+Added Pin To Net: NetName=EFFECT_OUT Pin=SW1-4
+Added Pin To Net: NetName=AUDIO_OUT Pin=SW1-5
+Added Pin To Net: NetName=BYPASS Pin=SW1-6
